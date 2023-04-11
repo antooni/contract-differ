@@ -4,7 +4,7 @@
 
 `mkdir contract-differ`
 
-`cd contract differ`
+`cd contract-differ`
 
 `wget -O diff.sh https://raw.githubusercontent.com/antooni/contract-differ/main/diff.sh`
 
